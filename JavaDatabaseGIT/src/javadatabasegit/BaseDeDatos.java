@@ -1,14 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package javadatabasegit;
 
-/**
- *
- * @author ANDROID
- */
 public class BaseDeDatos {
-    
+
+    public void agregar(Dato d) {
+
+    }
+
+    public void eliminar(Dato d) {
+
+    }
+
+    public void listar() {
+
+    }
+
+    public void modificar(Dato d) {
+
+    }
 }
